@@ -1,0 +1,7 @@
+C:\Users\fatmo\Grand Circus\Labs\11\Inheritance-Movie\Inheritance-Movie\obj\Debug\Inheritance-Movie.csprojAssemblyReference.cache
+C:\Users\fatmo\Grand Circus\Labs\11\Inheritance-Movie\Inheritance-Movie\obj\Debug\Inheritance-Movie.csproj.CoreCompileInputs.cache
+C:\Users\fatmo\Grand Circus\Labs\11\Inheritance-Movie\Inheritance-Movie\bin\Debug\Inheritance-Movie.exe.config
+C:\Users\fatmo\Grand Circus\Labs\11\Inheritance-Movie\Inheritance-Movie\bin\Debug\Inheritance-Movie.exe
+C:\Users\fatmo\Grand Circus\Labs\11\Inheritance-Movie\Inheritance-Movie\bin\Debug\Inheritance-Movie.pdb
+C:\Users\fatmo\Grand Circus\Labs\11\Inheritance-Movie\Inheritance-Movie\obj\Debug\Inheritance-Movie.exe
+C:\Users\fatmo\Grand Circus\Labs\11\Inheritance-Movie\Inheritance-Movie\obj\Debug\Inheritance-Movie.pdb
