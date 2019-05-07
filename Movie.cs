@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Inheritance_Movie
 {
-    class Movie
+    public abstract class Movie
     {
 
         //A property for Title that’s a string
@@ -44,12 +44,10 @@ namespace Inheritance_Movie
             }
         }
 
-        public virtual void Play()
-        {
-            Console.WriteLine("The play method onlny works on physical media");
-        }
+        public abstract void Play();
 
-        public virtual void PlayWholeMovie()
+
+        public void PlayWholeMovie()
         {
             PrintScenes();
         }

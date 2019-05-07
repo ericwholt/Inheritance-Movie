@@ -29,13 +29,5 @@ namespace Inheritance_Movie
         {
             CurrentTime = 0;
         }
-        public override void PlayWholeMovie()
-        {
-            foreach (string scene in Scenes)
-            {
-                Console.WriteLine(scene);
-            }
-            Rewind();
-        }
     }
 }
