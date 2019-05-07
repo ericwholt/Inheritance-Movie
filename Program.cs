@@ -52,25 +52,6 @@ namespace Inheritance_Movie
             //v.PrintInfo();
 
             Blockbuster b = new Blockbuster();
-
-            List<string> Dvd1_Scenes = new List<string> { "Scene 1", "Scene 2", "Scene 3", "Scene 4", "Scene 5", "Scene 6" };
-            DVD dvd1 = new DVD("dvd1", "Action", 80, Dvd1_Scenes);
-            List<string> Dvd2_Scenes = new List<string> { "Scene 1", "Scene 2", "Scene 3", "Scene 4", "Scene 5", "Scene 6" };
-            DVD dvd2 = new DVD("dvd2", "Drama", 80, Dvd2_Scenes);
-            List<string> Dvd3_Scenes = new List<string> { "Scene 1", "Scene 2", "Scene 3", "Scene 4", "Scene 5", "Scene 6" };
-            DVD dvd3 = new DVD("dvd3", "Suspense", 80, Dvd3_Scenes);
-            List<string> Vhs1_Scenes = new List<string> { "Scene 1", "Scene 2", "Scene 3", "Scene 4", "Scene 5", "Scene 6" };
-            VHS Vhs1 = new VHS("dvd1", "Action", 80, Vhs1_Scenes);
-            List<string> Vhs2_Scenes = new List<string> { "Scene 1", "Scene 2", "Scene 3", "Scene 4", "Scene 5", "Scene 6" };
-            VHS Vhs2 = new VHS("dvd1", "Action", 80, Vhs2_Scenes);
-            List<string> Vhs3_Scenes = new List<string> { "Scene 1", "Scene 2", "Scene 3", "Scene 4", "Scene 5", "Scene 6" };
-            VHS Vhs3 = new VHS("dvd1", "Action", 80, Vhs3_Scenes);
-            b.BuildRentalList(dvd1);
-            b.BuildRentalList(dvd2);
-            b.BuildRentalList(dvd3);
-            b.BuildRentalList(Vhs1);
-            b.BuildRentalList(Vhs2);
-            b.BuildRentalList(Vhs3);
             b.CheckOut();
         }
     }
